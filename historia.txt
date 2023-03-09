@@ -2,3 +2,5 @@ I am Jesus
 I am 24 years old
 
 Me gusta la tecnología y el futbol
+
+Soy desarrollador de software
